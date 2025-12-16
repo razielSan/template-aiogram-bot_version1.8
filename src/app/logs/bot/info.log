@@ -1,0 +1,1575 @@
+[2025-12-12/15/25 19-06-37] - logging:112 - [INFO - Логгер bot создан]
+[2025-12-12/15/25 19-06-37] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'example_modul']
+[2025-12-12/15/25 19-06-37] - router:21 - [INFO - 
+[Auto] Root router inculde into dp: Router 'main']
+[2025-12-12/15/25 19-06-37] - router:57 - [INFO - 
+[Auto] Sub router inculde into Router 'proxies': Router 'app.bot.modules.proxies.handlers.proxies']
+[2025-12-12/15/25 19-06-37] - router:21 - [INFO - 
+[Auto] Root router inculde into dp: Router 'proxies']
+[2025-12-12/15/25 19-06-37] - router:55 - [INFO - 
+[Auto] Sub router inculde into Router 'proxies.childes.webshare': Router 'app.bot.modules.proxies.childes.webshare.handlers.webshare']
+[2025-12-12/15/25 19-06-37] - router:32 - [INFO - 
+[Auto] Child router inculded into Router 'proxies': Router 'proxies.childes.webshare']
+[2025-12-12/15/25 19-06-37] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'test']
+[2025-12-12/15/25 19-06-38] - main:18 - [INFO - bot запущен]
+[2025-12-12/15/25 19-35-53] - logging:112 - [INFO - Логгер bot создан]
+[2025-12-12/15/25 19-35-53] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'example_modul']
+[2025-12-12/15/25 19-35-53] - router:21 - [INFO - 
+[Auto] Root router inculde into dp: Router 'main']
+[2025-12-12/15/25 19-35-53] - router:57 - [INFO - 
+[Auto] Sub router inculde into Router 'proxies': Router 'app.bot.modules.proxies.handlers.proxies']
+[2025-12-12/15/25 19-35-53] - router:21 - [INFO - 
+[Auto] Root router inculde into dp: Router 'proxies']
+[2025-12-12/15/25 19-35-53] - router:55 - [INFO - 
+[Auto] Sub router inculde into Router 'proxies.childes.webshare': Router 'app.bot.modules.proxies.childes.webshare.handlers.webshare']
+[2025-12-12/15/25 19-35-53] - router:32 - [INFO - 
+[Auto] Child router inculded into Router 'proxies': Router 'proxies.childes.webshare']
+[2025-12-12/15/25 19-35-53] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'test']
+[2025-12-12/15/25 19-35-53] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'test': Router 'test.childes.test']
+[2025-12-12/15/25 19-35-54] - main:18 - [INFO - bot запущен]
+[2025-12-12/15/25 19-42-05] - logging:112 - [INFO - Логгер bot создан]
+[2025-12-12/15/25 19-42-05] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'example_modul']
+[2025-12-12/15/25 19-42-05] - router:21 - [INFO - 
+[Auto] Root router inculde into dp: Router 'main']
+[2025-12-12/15/25 19-42-05] - router:57 - [INFO - 
+[Auto] Sub router inculde into Router 'proxies': Router 'app.bot.modules.proxies.handlers.proxies']
+[2025-12-12/15/25 19-42-05] - router:21 - [INFO - 
+[Auto] Root router inculde into dp: Router 'proxies']
+[2025-12-12/15/25 19-42-05] - router:55 - [INFO - 
+[Auto] Sub router inculde into Router 'proxies.childes.webshare': Router 'app.bot.modules.proxies.childes.webshare.handlers.webshare']
+[2025-12-12/15/25 19-42-05] - router:32 - [INFO - 
+[Auto] Child router inculded into Router 'proxies': Router 'proxies.childes.webshare']
+[2025-12-12/15/25 19-42-05] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'test']
+[2025-12-12/15/25 19-42-05] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'test': Router 'test.childes.test']
+[2025-12-12/15/25 19-42-05] - main:18 - [INFO - bot запущен]
+[2025-12-12/15/25 20-20-11] - logging:112 - [INFO - Логгер bot создан]
+[2025-12-12/15/25 20-20-11] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'audio']
+[2025-12-12/15/25 20-20-11] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'audio': Router 'audio.childes.test']
+[2025-12-12/15/25 20-20-11] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'audio': Router 'audio.childes.test.childes.name']
+[2025-12-12/15/25 20-20-11] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'example_modul']
+[2025-12-12/15/25 20-20-11] - router:21 - [INFO - 
+[Auto] Root router inculde into dp: Router 'main']
+[2025-12-12/15/25 20-20-11] - router:57 - [INFO - 
+[Auto] Sub router inculde into Router 'proxies': Router 'app.bot.modules.proxies.handlers.proxies']
+[2025-12-12/15/25 20-20-11] - router:21 - [INFO - 
+[Auto] Root router inculde into dp: Router 'proxies']
+[2025-12-12/15/25 20-20-11] - router:55 - [INFO - 
+[Auto] Sub router inculde into Router 'proxies.childes.webshare': Router 'app.bot.modules.proxies.childes.webshare.handlers.webshare']
+[2025-12-12/15/25 20-20-11] - router:32 - [INFO - 
+[Auto] Child router inculded into Router 'proxies': Router 'proxies.childes.webshare']
+[2025-12-12/15/25 20-20-11] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'test']
+[2025-12-12/15/25 20-20-11] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'test': Router 'test.childes.test']
+[2025-12-12/15/25 20-20-12] - main:18 - [INFO - bot запущен]
+[2025-12-12/15/25 21-54-49] - logging:112 - [INFO - Логгер bot создан]
+[2025-12-12/15/25 21-55-40] - logging:112 - [INFO - Логгер bot создан]
+[2025-12-12/15/25 21-55-40] - router:56 - [INFO - 
+[Auto] Sub router inculde into Router 'audio': Router 'app.bot.modules.audio.handlers.audio']
+[2025-12-12/15/25 21-55-40] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'audio']
+[2025-12-12/15/25 21-55-40] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'audio': Router 'audio.childes.test']
+[2025-12-12/15/25 21-55-40] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'audio': Router 'audio.childes.test.childes.name']
+[2025-12-12/15/25 21-55-41] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'example_modul']
+[2025-12-12/15/25 21-55-41] - router:21 - [INFO - 
+[Auto] Root router inculde into dp: Router 'main']
+[2025-12-12/15/25 21-55-41] - router:57 - [INFO - 
+[Auto] Sub router inculde into Router 'proxies': Router 'app.bot.modules.proxies.handlers.proxies']
+[2025-12-12/15/25 21-55-41] - router:21 - [INFO - 
+[Auto] Root router inculde into dp: Router 'proxies']
+[2025-12-12/15/25 21-55-41] - router:55 - [INFO - 
+[Auto] Sub router inculde into Router 'proxies.childes.webshare': Router 'app.bot.modules.proxies.childes.webshare.handlers.webshare']
+[2025-12-12/15/25 21-55-41] - router:32 - [INFO - 
+[Auto] Child router inculded into Router 'proxies': Router 'proxies.childes.webshare']
+[2025-12-12/15/25 21-55-41] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'test']
+[2025-12-12/15/25 21-55-41] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'test': Router 'test.childes.test']
+[2025-12-12/15/25 21-55-41] - main:18 - [INFO - bot запущен]
+[2025-12-12/15/25 21-59-05] - logging:112 - [INFO - Логгер bot создан]
+[2025-12-12/15/25 21-59-05] - router:56 - [INFO - 
+[Auto] Sub router inculde into Router 'audio': Router 'app.bot.modules.audio.handlers.audio']
+[2025-12-12/15/25 21-59-05] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'audio']
+[2025-12-12/15/25 21-59-05] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'audio': Router 'audio.childes.test']
+[2025-12-12/15/25 21-59-05] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'audio': Router 'audio.childes.test.childes.name']
+[2025-12-12/15/25 21-59-05] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'example_modul']
+[2025-12-12/15/25 21-59-05] - router:21 - [INFO - 
+[Auto] Root router inculde into dp: Router 'main']
+[2025-12-12/15/25 21-59-05] - router:57 - [INFO - 
+[Auto] Sub router inculde into Router 'proxies': Router 'app.bot.modules.proxies.handlers.proxies']
+[2025-12-12/15/25 21-59-05] - router:21 - [INFO - 
+[Auto] Root router inculde into dp: Router 'proxies']
+[2025-12-12/15/25 21-59-05] - router:55 - [INFO - 
+[Auto] Sub router inculde into Router 'proxies.childes.webshare': Router 'app.bot.modules.proxies.childes.webshare.handlers.webshare']
+[2025-12-12/15/25 21-59-05] - router:32 - [INFO - 
+[Auto] Child router inculded into Router 'proxies': Router 'proxies.childes.webshare']
+[2025-12-12/15/25 21-59-05] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'test']
+[2025-12-12/15/25 21-59-05] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'test': Router 'test.childes.test']
+[2025-12-12/15/25 21-59-06] - main:18 - [INFO - bot запущен]
+[2025-12-12/15/25 22-02-50] - logging:112 - [INFO - Логгер bot создан]
+[2025-12-12/15/25 22-03-17] - logging:112 - [INFO - Логгер bot создан]
+[2025-12-12/15/25 22-03-17] - router:56 - [INFO - 
+[Auto] Sub router inculde into Router 'audio': Router 'app.bot.modules.audio.handlers.audio']
+[2025-12-12/15/25 22-03-17] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'audio']
+[2025-12-12/15/25 22-03-17] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'audio': Router 'audio.childes.test']
+[2025-12-12/15/25 22-03-17] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'audio': Router 'audio.childes.test.childes.name']
+[2025-12-12/15/25 22-03-17] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'example_modul']
+[2025-12-12/15/25 22-03-17] - router:21 - [INFO - 
+[Auto] Root router inculde into dp: Router 'main']
+[2025-12-12/15/25 22-03-17] - router:55 - [INFO - 
+[Auto] Sub router inculde into Router 'proxies': Router 'app.bot.modules.proxies.handlers.proxies']
+[2025-12-12/15/25 22-03-17] - router:21 - [INFO - 
+[Auto] Root router inculde into dp: Router 'proxies']
+[2025-12-12/15/25 22-03-17] - router:55 - [INFO - 
+[Auto] Sub router inculde into Router 'proxies.childes.webshare': Router 'app.bot.modules.proxies.childes.webshare.handlers.webshare']
+[2025-12-12/15/25 22-03-17] - router:32 - [INFO - 
+[Auto] Child router inculded into Router 'proxies': Router 'proxies.childes.webshare']
+[2025-12-12/15/25 22-03-17] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'test']
+[2025-12-12/15/25 22-03-17] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'test': Router 'test.childes.test']
+[2025-12-12/15/25 22-03-18] - main:18 - [INFO - bot запущен]
+[2025-12-12/15/25 22-04-08] - logging:112 - [INFO - Логгер bot создан]
+[2025-12-12/15/25 22-04-08] - router:56 - [INFO - 
+[Auto] Sub router inculde into Router 'audio': Router 'app.bot.modules.audio.handlers.audio']
+[2025-12-12/15/25 22-04-08] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'audio']
+[2025-12-12/15/25 22-04-08] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'audio': Router 'audio.childes.test']
+[2025-12-12/15/25 22-04-08] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'audio': Router 'audio.childes.test.childes.name']
+[2025-12-12/15/25 22-04-08] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'example_modul']
+[2025-12-12/15/25 22-04-08] - router:21 - [INFO - 
+[Auto] Root router inculde into dp: Router 'main']
+[2025-12-12/15/25 22-04-08] - router:55 - [INFO - 
+[Auto] Sub router inculde into Router 'proxies': Router 'app.bot.modules.proxies.handlers.proxies']
+[2025-12-12/15/25 22-04-08] - router:21 - [INFO - 
+[Auto] Root router inculde into dp: Router 'proxies']
+[2025-12-12/15/25 22-04-08] - router:55 - [INFO - 
+[Auto] Sub router inculde into Router 'proxies.childes.webshare': Router 'app.bot.modules.proxies.childes.webshare.handlers.webshare']
+[2025-12-12/15/25 22-04-08] - router:32 - [INFO - 
+[Auto] Child router inculded into Router 'proxies': Router 'proxies.childes.webshare']
+[2025-12-12/15/25 22-04-08] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'test']
+[2025-12-12/15/25 22-04-08] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'test': Router 'test.childes.test']
+[2025-12-12/15/25 22-04-08] - main:18 - [INFO - bot запущен]
+[2025-12-12/15/25 22-10-21] - logging:112 - [INFO - Логгер bot создан]
+[2025-12-12/15/25 22-10-22] - router:56 - [INFO - 
+[Auto] Sub router inculde into Router 'audio': Router 'app.bot.modules.audio.handlers.audio']
+[2025-12-12/15/25 22-10-22] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'audio']
+[2025-12-12/15/25 22-10-22] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'audio': Router 'audio.childes.test']
+[2025-12-12/15/25 22-10-22] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'audio': Router 'audio.childes.test.childes.name']
+[2025-12-12/15/25 22-10-22] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'example_modul']
+[2025-12-12/15/25 22-10-22] - router:21 - [INFO - 
+[Auto] Root router inculde into dp: Router 'main']
+[2025-12-12/15/25 22-10-22] - router:55 - [INFO - 
+[Auto] Sub router inculde into Router 'proxies': Router 'app.bot.modules.proxies.handlers.proxies']
+[2025-12-12/15/25 22-10-22] - router:21 - [INFO - 
+[Auto] Root router inculde into dp: Router 'proxies']
+[2025-12-12/15/25 22-10-22] - router:55 - [INFO - 
+[Auto] Sub router inculde into Router 'proxies.childes.webshare': Router 'app.bot.modules.proxies.childes.webshare.handlers.webshare']
+[2025-12-12/15/25 22-10-22] - router:32 - [INFO - 
+[Auto] Child router inculded into Router 'proxies': Router 'proxies.childes.webshare']
+[2025-12-12/15/25 22-10-22] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'test']
+[2025-12-12/15/25 22-10-22] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'test': Router 'test.childes.test']
+[2025-12-12/15/25 22-10-22] - main:18 - [INFO - bot запущен]
+[2025-12-12/15/25 22-15-47] - logging:112 - [INFO - Логгер bot создан]
+[2025-12-12/15/25 22-15-47] - router:56 - [INFO - 
+[Auto] Sub router inculde into Router 'audio': Router 'app.bot.modules.audio.handlers.audio']
+[2025-12-12/15/25 22-15-47] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'audio']
+[2025-12-12/15/25 22-15-47] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'audio': Router 'audio.childes.test']
+[2025-12-12/15/25 22-15-47] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'audio': Router 'audio.childes.test.childes.name']
+[2025-12-12/15/25 22-15-47] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'example_modul']
+[2025-12-12/15/25 22-15-47] - router:21 - [INFO - 
+[Auto] Root router inculde into dp: Router 'main']
+[2025-12-12/15/25 22-15-47] - router:55 - [INFO - 
+[Auto] Sub router inculde into Router 'proxies': Router 'app.bot.modules.proxies.handlers.proxies']
+[2025-12-12/15/25 22-15-47] - router:21 - [INFO - 
+[Auto] Root router inculde into dp: Router 'proxies']
+[2025-12-12/15/25 22-15-47] - router:55 - [INFO - 
+[Auto] Sub router inculde into Router 'proxies.childes.webshare': Router 'app.bot.modules.proxies.childes.webshare.handlers.webshare']
+[2025-12-12/15/25 22-15-47] - router:32 - [INFO - 
+[Auto] Child router inculded into Router 'proxies': Router 'proxies.childes.webshare']
+[2025-12-12/15/25 22-15-47] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'test']
+[2025-12-12/15/25 22-15-47] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'test': Router 'test.childes.test']
+[2025-12-12/15/25 22-15-48] - main:18 - [INFO - bot запущен]
+[2025-12-12/15/25 22-18-56] - logging:112 - [INFO - Логгер bot создан]
+[2025-12-12/15/25 22-18-56] - router:58 - [INFO - 
+[Auto] Sub router inculde into Router 'audio': Router 'app.bot.modules.audio.handlers.audio']
+[2025-12-12/15/25 22-18-56] - router:23 - [INFO - 
+[Auto] Root router inculde into dp: Router 'audio']
+[2025-12-12/15/25 22-18-56] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'audio': Router 'audio.childes.test']
+[2025-12-12/15/25 22-18-56] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'audio': Router 'audio.childes.test.childes.name']
+[2025-12-12/15/25 22-18-56] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'example_modul']
+[2025-12-12/15/25 22-18-56] - router:21 - [INFO - 
+[Auto] Root router inculde into dp: Router 'main']
+[2025-12-12/15/25 22-18-56] - router:55 - [INFO - 
+[Auto] Sub router inculde into Router 'proxies': Router 'app.bot.modules.proxies.handlers.proxies']
+[2025-12-12/15/25 22-18-56] - router:21 - [INFO - 
+[Auto] Root router inculde into dp: Router 'proxies']
+[2025-12-12/15/25 22-18-56] - router:55 - [INFO - 
+[Auto] Sub router inculde into Router 'proxies.childes.webshare': Router 'app.bot.modules.proxies.childes.webshare.handlers.webshare']
+[2025-12-12/15/25 22-18-56] - router:32 - [INFO - 
+[Auto] Child router inculded into Router 'proxies': Router 'proxies.childes.webshare']
+[2025-12-12/15/25 22-18-56] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'test']
+[2025-12-12/15/25 22-18-56] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'test': Router 'test.childes.test']
+[2025-12-12/15/25 22-18-57] - main:18 - [INFO - bot запущен]
+[2025-12-12/15/25 22-21-37] - logging:112 - [INFO - Логгер bot создан]
+[2025-12-12/15/25 22-21-37] - router:58 - [INFO - 
+[Auto] Sub router inculde into Router 'audio': Router 'app.bot.modules.audio.handlers.audio']
+[2025-12-12/15/25 22-21-37] - router:23 - [INFO - 
+[Auto] Root router inculde into dp: Router 'audio']
+[2025-12-12/15/25 22-21-37] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'audio': Router 'audio.childes.test']
+[2025-12-12/15/25 22-21-37] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'audio': Router 'audio.childes.test.childes.name']
+[2025-12-12/15/25 22-21-37] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'example_modul']
+[2025-12-12/15/25 22-21-37] - router:21 - [INFO - 
+[Auto] Root router inculde into dp: Router 'main']
+[2025-12-12/15/25 22-21-37] - router:55 - [INFO - 
+[Auto] Sub router inculde into Router 'proxies': Router 'app.bot.modules.proxies.handlers.proxies']
+[2025-12-12/15/25 22-21-37] - router:21 - [INFO - 
+[Auto] Root router inculde into dp: Router 'proxies']
+[2025-12-12/15/25 22-21-37] - router:55 - [INFO - 
+[Auto] Sub router inculde into Router 'proxies.childes.webshare': Router 'app.bot.modules.proxies.childes.webshare.handlers.webshare']
+[2025-12-12/15/25 22-21-37] - router:32 - [INFO - 
+[Auto] Child router inculded into Router 'proxies': Router 'proxies.childes.webshare']
+[2025-12-12/15/25 22-21-37] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'test']
+[2025-12-12/15/25 22-21-37] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'test': Router 'test.childes.test']
+[2025-12-12/15/25 22-21-37] - main:18 - [INFO - bot запущен]
+[2025-12-12/15/25 22-25-32] - logging:112 - [INFO - Логгер bot создан]
+[2025-12-12/15/25 22-25-32] - router:58 - [INFO - 
+[Auto] Sub router inculde into Router 'audio': Router 'app.bot.modules.audio.handlers.audio']
+[2025-12-12/15/25 22-25-32] - router:23 - [INFO - 
+[Auto] Root router inculde into dp: Router 'audio']
+[2025-12-12/15/25 22-25-32] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'audio': Router 'audio.childes.test']
+[2025-12-12/15/25 22-25-33] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'audio': Router 'audio.childes.test.childes.name']
+[2025-12-12/15/25 22-25-33] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'example_modul']
+[2025-12-12/15/25 22-25-33] - router:21 - [INFO - 
+[Auto] Root router inculde into dp: Router 'main']
+[2025-12-12/15/25 22-25-33] - router:55 - [INFO - 
+[Auto] Sub router inculde into Router 'proxies': Router 'app.bot.modules.proxies.handlers.proxies']
+[2025-12-12/15/25 22-25-33] - router:21 - [INFO - 
+[Auto] Root router inculde into dp: Router 'proxies']
+[2025-12-12/15/25 22-25-33] - router:55 - [INFO - 
+[Auto] Sub router inculde into Router 'proxies.childes.webshare': Router 'app.bot.modules.proxies.childes.webshare.handlers.webshare']
+[2025-12-12/15/25 22-25-33] - router:32 - [INFO - 
+[Auto] Child router inculded into Router 'proxies': Router 'proxies.childes.webshare']
+[2025-12-12/15/25 22-25-33] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'test']
+[2025-12-12/15/25 22-25-33] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'test': Router 'test.childes.test']
+[2025-12-12/15/25 22-25-33] - main:18 - [INFO - bot запущен]
+[2025-12-12/15/25 22-28-30] - logging:112 - [INFO - Логгер bot создан]
+[2025-12-12/15/25 22-28-30] - router:58 - [INFO - 
+[Auto] Sub router inculde into Router 'audio': Router 'app.bot.modules.audio.handlers.audio']
+[2025-12-12/15/25 22-28-30] - router:23 - [INFO - 
+[Auto] Root router inculde into dp: Router 'audio']
+[2025-12-12/15/25 22-28-30] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'audio': Router 'audio.childes.test']
+[2025-12-12/15/25 22-28-30] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'audio': Router 'audio.childes.test.childes.create']
+[2025-12-12/15/25 22-28-30] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'audio': Router 'audio.childes.test.childes.name']
+[2025-12-12/15/25 22-28-30] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'example_modul']
+[2025-12-12/15/25 22-28-30] - router:21 - [INFO - 
+[Auto] Root router inculde into dp: Router 'main']
+[2025-12-12/15/25 22-28-30] - router:55 - [INFO - 
+[Auto] Sub router inculde into Router 'proxies': Router 'app.bot.modules.proxies.handlers.proxies']
+[2025-12-12/15/25 22-28-30] - router:21 - [INFO - 
+[Auto] Root router inculde into dp: Router 'proxies']
+[2025-12-12/15/25 22-28-30] - router:55 - [INFO - 
+[Auto] Sub router inculde into Router 'proxies.childes.webshare': Router 'app.bot.modules.proxies.childes.webshare.handlers.webshare']
+[2025-12-12/15/25 22-28-30] - router:32 - [INFO - 
+[Auto] Child router inculded into Router 'proxies': Router 'proxies.childes.webshare']
+[2025-12-12/15/25 22-28-30] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'test']
+[2025-12-12/15/25 22-28-30] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'test': Router 'test.childes.test']
+[2025-12-12/15/25 22-28-31] - main:18 - [INFO - bot запущен]
+[2025-12-12/15/25 22-30-08] - logging:112 - [INFO - Логгер bot создан]
+[2025-12-12/15/25 22-30-08] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'adudio']
+[2025-12-12/15/25 22-30-09] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'adudio': Router 'adudio.childes.data']
+[2025-12-12/15/25 22-30-09] - router:58 - [INFO - 
+[Auto] Sub router inculde into Router 'audio': Router 'app.bot.modules.audio.handlers.audio']
+[2025-12-12/15/25 22-30-09] - router:23 - [INFO - 
+[Auto] Root router inculde into dp: Router 'audio']
+[2025-12-12/15/25 22-30-09] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'audio': Router 'audio.childes.temp']
+[2025-12-12/15/25 22-30-09] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'audio': Router 'audio.childes.test']
+[2025-12-12/15/25 22-30-09] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'audio': Router 'audio.childes.test.childes.create']
+[2025-12-12/15/25 22-30-09] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'audio': Router 'audio.childes.test.childes.name']
+[2025-12-12/15/25 22-30-09] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'example_modul']
+[2025-12-12/15/25 22-30-09] - router:21 - [INFO - 
+[Auto] Root router inculde into dp: Router 'main']
+[2025-12-12/15/25 22-30-09] - router:55 - [INFO - 
+[Auto] Sub router inculde into Router 'proxies': Router 'app.bot.modules.proxies.handlers.proxies']
+[2025-12-12/15/25 22-30-09] - router:21 - [INFO - 
+[Auto] Root router inculde into dp: Router 'proxies']
+[2025-12-12/15/25 22-30-09] - router:55 - [INFO - 
+[Auto] Sub router inculde into Router 'proxies.childes.webshare': Router 'app.bot.modules.proxies.childes.webshare.handlers.webshare']
+[2025-12-12/15/25 22-30-09] - router:32 - [INFO - 
+[Auto] Child router inculded into Router 'proxies': Router 'proxies.childes.webshare']
+[2025-12-12/15/25 22-30-09] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'test']
+[2025-12-12/15/25 22-30-09] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'test': Router 'test.childes.test']
+[2025-12-12/15/25 22-30-09] - main:18 - [INFO - bot запущен]
+[2025-12-12/15/25 22-31-08] - logging:112 - [INFO - Логгер bot создан]
+[2025-12-12/15/25 22-31-08] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'adudio']
+[2025-12-12/15/25 22-31-08] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'adudio': Router 'adudio.childes.data']
+[2025-12-12/15/25 22-31-09] - router:58 - [INFO - 
+[Auto] Sub router inculde into Router 'audio': Router 'app.bot.modules.audio.handlers.audio']
+[2025-12-12/15/25 22-31-09] - router:23 - [INFO - 
+[Auto] Root router inculde into dp: Router 'audio']
+[2025-12-12/15/25 22-31-09] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'audio': Router 'audio.childes.create']
+[2025-12-12/15/25 22-31-09] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'audio': Router 'audio.childes.temp']
+[2025-12-12/15/25 22-31-09] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'audio': Router 'audio.childes.test']
+[2025-12-12/15/25 22-31-09] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'audio': Router 'audio.childes.test.childes.create']
+[2025-12-12/15/25 22-31-09] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'audio': Router 'audio.childes.test.childes.name']
+[2025-12-12/15/25 22-31-09] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'example_modul']
+[2025-12-12/15/25 22-31-09] - router:21 - [INFO - 
+[Auto] Root router inculde into dp: Router 'main']
+[2025-12-12/15/25 22-31-09] - router:55 - [INFO - 
+[Auto] Sub router inculde into Router 'proxies': Router 'app.bot.modules.proxies.handlers.proxies']
+[2025-12-12/15/25 22-31-09] - router:21 - [INFO - 
+[Auto] Root router inculde into dp: Router 'proxies']
+[2025-12-12/15/25 22-31-09] - router:55 - [INFO - 
+[Auto] Sub router inculde into Router 'proxies.childes.webshare': Router 'app.bot.modules.proxies.childes.webshare.handlers.webshare']
+[2025-12-12/15/25 22-31-09] - router:32 - [INFO - 
+[Auto] Child router inculded into Router 'proxies': Router 'proxies.childes.webshare']
+[2025-12-12/15/25 22-31-09] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'test']
+[2025-12-12/15/25 22-31-09] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'test': Router 'test.childes.test']
+[2025-12-12/15/25 22-31-09] - main:18 - [INFO - bot запущен]
+[2025-12-12/15/25 22-33-46] - logging:112 - [INFO - Логгер bot создан]
+[2025-12-12/15/25 22-33-46] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'adudio']
+[2025-12-12/15/25 22-33-46] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'adudio': Router 'adudio.childes.data']
+[2025-12-12/15/25 22-33-46] - router:58 - [INFO - 
+[Auto] Sub router inculde into Router 'audio': Router 'app.bot.modules.audio.handlers.audio']
+[2025-12-12/15/25 22-33-46] - router:23 - [INFO - 
+[Auto] Root router inculde into dp: Router 'audio']
+[2025-12-12/15/25 22-33-46] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'audio': Router 'audio.childes.create']
+[2025-12-12/15/25 22-33-46] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'audio': Router 'audio.childes.temp']
+[2025-12-12/15/25 22-33-46] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'audio': Router 'audio.childes.test.childes.create']
+[2025-12-12/15/25 22-33-46] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'audio': Router 'audio.childes.test.childes.name']
+[2025-12-12/15/25 22-33-46] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'example_modul']
+[2025-12-12/15/25 22-33-46] - router:21 - [INFO - 
+[Auto] Root router inculde into dp: Router 'main']
+[2025-12-12/15/25 22-33-46] - router:55 - [INFO - 
+[Auto] Sub router inculde into Router 'proxies': Router 'app.bot.modules.proxies.handlers.proxies']
+[2025-12-12/15/25 22-33-46] - router:21 - [INFO - 
+[Auto] Root router inculde into dp: Router 'proxies']
+[2025-12-12/15/25 22-33-46] - router:55 - [INFO - 
+[Auto] Sub router inculde into Router 'proxies.childes.webshare': Router 'app.bot.modules.proxies.childes.webshare.handlers.webshare']
+[2025-12-12/15/25 22-33-46] - router:32 - [INFO - 
+[Auto] Child router inculded into Router 'proxies': Router 'proxies.childes.webshare']
+[2025-12-12/15/25 22-33-46] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'test']
+[2025-12-12/15/25 22-33-46] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'test': Router 'test.childes.test']
+[2025-12-12/15/25 22-33-47] - main:18 - [INFO - bot запущен]
+[2025-12-12/15/25 22-35-17] - logging:112 - [INFO - Логгер bot создан]
+[2025-12-12/15/25 22-35-17] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'adudio']
+[2025-12-12/15/25 22-35-17] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'adudio': Router 'adudio.childes.data']
+[2025-12-12/15/25 22-35-17] - router:58 - [INFO - 
+[Auto] Sub router inculde into Router 'audio': Router 'app.bot.modules.audio.handlers.audio']
+[2025-12-12/15/25 22-35-17] - router:23 - [INFO - 
+[Auto] Root router inculde into dp: Router 'audio']
+[2025-12-12/15/25 22-35-17] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'audio': Router 'audio.childes.create']
+[2025-12-12/15/25 22-35-17] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'audio': Router 'audio.childes.temp']
+[2025-12-12/15/25 22-35-17] - router:56 - [INFO - 
+[Auto] Sub router inculde into Router 'audio.childes.test': Router 'app.bot.modules.audio.childes.test.handlers.test']
+[2025-12-12/15/25 22-35-17] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'audio': Router 'audio.childes.test']
+[2025-12-12/15/25 22-35-17] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'audio': Router 'audio.childes.test.childes.create']
+[2025-12-12/15/25 22-35-17] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'audio': Router 'audio.childes.test.childes.name']
+[2025-12-12/15/25 22-35-17] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'example_modul']
+[2025-12-12/15/25 22-35-17] - router:21 - [INFO - 
+[Auto] Root router inculde into dp: Router 'main']
+[2025-12-12/15/25 22-35-17] - router:55 - [INFO - 
+[Auto] Sub router inculde into Router 'proxies': Router 'app.bot.modules.proxies.handlers.proxies']
+[2025-12-12/15/25 22-35-17] - router:21 - [INFO - 
+[Auto] Root router inculde into dp: Router 'proxies']
+[2025-12-12/15/25 22-35-17] - router:55 - [INFO - 
+[Auto] Sub router inculde into Router 'proxies.childes.webshare': Router 'app.bot.modules.proxies.childes.webshare.handlers.webshare']
+[2025-12-12/15/25 22-35-17] - router:32 - [INFO - 
+[Auto] Child router inculded into Router 'proxies': Router 'proxies.childes.webshare']
+[2025-12-12/15/25 22-35-17] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'test']
+[2025-12-12/15/25 22-35-17] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'test': Router 'test.childes.test']
+[2025-12-12/15/25 22-35-18] - main:18 - [INFO - bot запущен]
+[2025-12-12/15/25 22-38-32] - logging:112 - [INFO - Логгер bot создан]
+[2025-12-12/15/25 22-38-32] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'adudio']
+[2025-12-12/15/25 22-38-32] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'adudio': Router 'adudio.childes.data']
+[2025-12-12/15/25 22-38-32] - router:58 - [INFO - 
+[Auto] Sub router inculde into Router 'audio': Router 'app.bot.modules.audio.handlers.audio']
+[2025-12-12/15/25 22-38-32] - router:23 - [INFO - 
+[Auto] Root router inculde into dp: Router 'audio']
+[2025-12-12/15/25 22-38-32] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'audio': Router 'audio.childes.create']
+[2025-12-12/15/25 22-38-32] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'audio': Router 'audio.childes.temp']
+[2025-12-12/15/25 22-38-32] - router:56 - [INFO - 
+[Auto] Sub router inculde into Router 'audio.childes.test': Router 'app.bot.modules.audio.childes.test.handlers.test']
+[2025-12-12/15/25 22-38-32] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'audio': Router 'audio.childes.test']
+[2025-12-12/15/25 22-38-32] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'audio': Router 'audio.childes.test.childes.create']
+[2025-12-12/15/25 22-38-32] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'audio': Router 'audio.childes.test.childes.name']
+[2025-12-12/15/25 22-38-32] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'example_modul']
+[2025-12-12/15/25 22-38-32] - router:21 - [INFO - 
+[Auto] Root router inculde into dp: Router 'main']
+[2025-12-12/15/25 22-38-32] - router:55 - [INFO - 
+[Auto] Sub router inculde into Router 'proxies': Router 'app.bot.modules.proxies.handlers.proxies']
+[2025-12-12/15/25 22-38-32] - router:21 - [INFO - 
+[Auto] Root router inculde into dp: Router 'proxies']
+[2025-12-12/15/25 22-38-33] - router:55 - [INFO - 
+[Auto] Sub router inculde into Router 'proxies.childes.webshare': Router 'app.bot.modules.proxies.childes.webshare.handlers.webshare']
+[2025-12-12/15/25 22-38-33] - router:32 - [INFO - 
+[Auto] Child router inculded into Router 'proxies': Router 'proxies.childes.webshare']
+[2025-12-12/15/25 22-38-33] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'test']
+[2025-12-12/15/25 22-38-33] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'test': Router 'test.childes.test']
+[2025-12-12/15/25 22-38-33] - main:18 - [INFO - bot запущен]
+[2025-12-12/15/25 22-41-29] - logging:112 - [INFO - Логгер bot создан]
+[2025-12-12/15/25 22-41-29] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'adudio']
+[2025-12-12/15/25 22-41-29] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'adudio': Router 'adudio.childes.data']
+[2025-12-12/15/25 22-41-30] - router:58 - [INFO - 
+[Auto] Sub router inculde into Router 'audio': Router 'app.bot.modules.audio.handlers.audio']
+[2025-12-12/15/25 22-41-30] - router:23 - [INFO - 
+[Auto] Root router inculde into dp: Router 'audio']
+[2025-12-12/15/25 22-41-30] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'audio': Router 'audio.childes.create']
+[2025-12-12/15/25 22-41-30] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'audio': Router 'audio.childes.temp']
+[2025-12-12/15/25 22-41-30] - router:56 - [INFO - 
+[Auto] Sub router inculde into Router 'audio.childes.test': Router 'app.bot.modules.audio.childes.test.handlers.test']
+[2025-12-12/15/25 22-41-30] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'audio': Router 'audio.childes.test']
+[2025-12-12/15/25 22-41-30] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'audio': Router 'audio.childes.test.childes.create']
+[2025-12-12/15/25 22-41-30] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'audio': Router 'audio.childes.test.childes.name.childes.create']
+[2025-12-12/15/25 22-41-30] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'example_modul']
+[2025-12-12/15/25 22-41-30] - router:21 - [INFO - 
+[Auto] Root router inculde into dp: Router 'main']
+[2025-12-12/15/25 22-41-30] - router:55 - [INFO - 
+[Auto] Sub router inculde into Router 'proxies': Router 'app.bot.modules.proxies.handlers.proxies']
+[2025-12-12/15/25 22-41-30] - router:21 - [INFO - 
+[Auto] Root router inculde into dp: Router 'proxies']
+[2025-12-12/15/25 22-41-30] - router:55 - [INFO - 
+[Auto] Sub router inculde into Router 'proxies.childes.webshare': Router 'app.bot.modules.proxies.childes.webshare.handlers.webshare']
+[2025-12-12/15/25 22-41-30] - router:32 - [INFO - 
+[Auto] Child router inculded into Router 'proxies': Router 'proxies.childes.webshare']
+[2025-12-12/15/25 22-41-30] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'test']
+[2025-12-12/15/25 22-41-30] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'test': Router 'test.childes.test']
+[2025-12-12/15/25 22-41-30] - main:18 - [INFO - bot запущен]
+[2025-12-12/15/25 22-42-00] - logging:112 - [INFO - Логгер bot создан]
+[2025-12-12/15/25 22-42-00] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'adudio']
+[2025-12-12/15/25 22-42-00] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'adudio': Router 'adudio.childes.data']
+[2025-12-12/15/25 22-42-00] - router:58 - [INFO - 
+[Auto] Sub router inculde into Router 'audio': Router 'app.bot.modules.audio.handlers.audio']
+[2025-12-12/15/25 22-42-00] - router:23 - [INFO - 
+[Auto] Root router inculde into dp: Router 'audio']
+[2025-12-12/15/25 22-42-00] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'audio': Router 'audio.childes.create']
+[2025-12-12/15/25 22-42-00] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'audio': Router 'audio.childes.temp']
+[2025-12-12/15/25 22-42-00] - router:56 - [INFO - 
+[Auto] Sub router inculde into Router 'audio.childes.test': Router 'app.bot.modules.audio.childes.test.handlers.test']
+[2025-12-12/15/25 22-42-00] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'audio': Router 'audio.childes.test']
+[2025-12-12/15/25 22-42-00] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'audio': Router 'audio.childes.test.childes.create']
+[2025-12-12/15/25 22-42-00] - router:56 - [INFO - 
+[Auto] Sub router inculde into Router 'audio.childes.test.childes.name': Router 'app.bot.modules.audio.childes.test.childes.name.handlers.name']
+[2025-12-12/15/25 22-42-00] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'audio': Router 'audio.childes.test.childes.name']
+[2025-12-12/15/25 22-42-00] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'audio': Router 'audio.childes.test.childes.name.childes.create']
+[2025-12-12/15/25 22-42-00] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'example_modul']
+[2025-12-12/15/25 22-42-00] - router:21 - [INFO - 
+[Auto] Root router inculde into dp: Router 'main']
+[2025-12-12/15/25 22-42-00] - router:55 - [INFO - 
+[Auto] Sub router inculde into Router 'proxies': Router 'app.bot.modules.proxies.handlers.proxies']
+[2025-12-12/15/25 22-42-00] - router:21 - [INFO - 
+[Auto] Root router inculde into dp: Router 'proxies']
+[2025-12-12/15/25 22-42-00] - router:55 - [INFO - 
+[Auto] Sub router inculde into Router 'proxies.childes.webshare': Router 'app.bot.modules.proxies.childes.webshare.handlers.webshare']
+[2025-12-12/15/25 22-42-00] - router:32 - [INFO - 
+[Auto] Child router inculded into Router 'proxies': Router 'proxies.childes.webshare']
+[2025-12-12/15/25 22-42-00] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'test']
+[2025-12-12/15/25 22-42-00] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'test': Router 'test.childes.test']
+[2025-12-12/15/25 22-42-00] - main:18 - [INFO - bot запущен]
+[2025-12-12/15/25 22-46-33] - logging:112 - [INFO - Логгер bot создан]
+[2025-12-12/15/25 22-46-33] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'adudio']
+[2025-12-12/15/25 22-46-33] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'adudio': Router 'adudio.childes.data']
+[2025-12-12/15/25 22-46-33] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'example_modul']
+[2025-12-12/15/25 22-46-33] - router:21 - [INFO - 
+[Auto] Root router inculde into dp: Router 'main']
+[2025-12-12/15/25 22-46-33] - router:55 - [INFO - 
+[Auto] Sub router inculde into Router 'proxies': Router 'app.bot.modules.proxies.handlers.proxies']
+[2025-12-12/15/25 22-46-33] - router:21 - [INFO - 
+[Auto] Root router inculde into dp: Router 'proxies']
+[2025-12-12/15/25 22-46-33] - router:55 - [INFO - 
+[Auto] Sub router inculde into Router 'proxies.childes.webshare': Router 'app.bot.modules.proxies.childes.webshare.handlers.webshare']
+[2025-12-12/15/25 22-46-33] - router:32 - [INFO - 
+[Auto] Child router inculded into Router 'proxies': Router 'proxies.childes.webshare']
+[2025-12-12/15/25 22-46-33] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'test']
+[2025-12-12/15/25 22-46-33] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'test': Router 'test.childes.test']
+[2025-12-12/15/25 22-46-34] - main:18 - [INFO - bot запущен]
+[2025-12-12/15/25 22-49-50] - logging:112 - [INFO - Логгер bot создан]
+[2025-12-12/15/25 22-49-50] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'adudio']
+[2025-12-12/15/25 22-49-50] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'adudio': Router 'adudio.childes.data']
+[2025-12-12/15/25 22-49-50] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'example_modul']
+[2025-12-12/15/25 22-49-50] - router:21 - [INFO - 
+[Auto] Root router inculde into dp: Router 'main']
+[2025-12-12/15/25 22-49-50] - router:55 - [INFO - 
+[Auto] Sub router inculde into Router 'proxies': Router 'app.bot.modules.proxies.handlers.proxies']
+[2025-12-12/15/25 22-49-50] - router:21 - [INFO - 
+[Auto] Root router inculde into dp: Router 'proxies']
+[2025-12-12/15/25 22-49-50] - router:55 - [INFO - 
+[Auto] Sub router inculde into Router 'proxies.childes.webshare': Router 'app.bot.modules.proxies.childes.webshare.handlers.webshare']
+[2025-12-12/15/25 22-49-50] - router:32 - [INFO - 
+[Auto] Child router inculded into Router 'proxies': Router 'proxies.childes.webshare']
+[2025-12-12/15/25 22-49-50] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'test']
+[2025-12-12/15/25 22-49-50] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'test': Router 'test.childes.test']
+[2025-12-12/15/25 22-49-51] - main:18 - [INFO - bot запущен]
+[2025-12-12/15/25 22-54-33] - logging:112 - [INFO - Логгер bot создан]
+[2025-12-12/15/25 22-54-33] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'adudio']
+[2025-12-12/15/25 22-54-33] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'adudio': Router 'adudio.childes.data']
+[2025-12-12/15/25 22-54-33] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'example_modul']
+[2025-12-12/15/25 22-54-33] - router:21 - [INFO - 
+[Auto] Root router inculde into dp: Router 'main']
+[2025-12-12/15/25 22-54-33] - router:55 - [INFO - 
+[Auto] Sub router inculde into Router 'proxies': Router 'app.bot.modules.proxies.handlers.proxies']
+[2025-12-12/15/25 22-54-33] - router:21 - [INFO - 
+[Auto] Root router inculde into dp: Router 'proxies']
+[2025-12-12/15/25 22-54-33] - router:55 - [INFO - 
+[Auto] Sub router inculde into Router 'proxies.childes.webshare': Router 'app.bot.modules.proxies.childes.webshare.handlers.webshare']
+[2025-12-12/15/25 22-54-33] - router:32 - [INFO - 
+[Auto] Child router inculded into Router 'proxies': Router 'proxies.childes.webshare']
+[2025-12-12/15/25 22-54-33] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'test']
+[2025-12-12/15/25 22-54-33] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'test': Router 'test.childes.test']
+[2025-12-12/15/25 22-56-38] - logging:112 - [INFO - Логгер bot создан]
+[2025-12-12/15/25 22-56-38] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'adudio']
+[2025-12-12/15/25 22-56-38] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'adudio': Router 'adudio.childes.data']
+[2025-12-12/15/25 22-56-38] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'example_modul']
+[2025-12-12/15/25 22-56-38] - router:21 - [INFO - 
+[Auto] Root router inculde into dp: Router 'main']
+[2025-12-12/15/25 22-56-38] - router:55 - [INFO - 
+[Auto] Sub router inculde into Router 'proxies': Router 'app.bot.modules.proxies.handlers.proxies']
+[2025-12-12/15/25 22-56-38] - router:21 - [INFO - 
+[Auto] Root router inculde into dp: Router 'proxies']
+[2025-12-12/15/25 22-56-38] - router:55 - [INFO - 
+[Auto] Sub router inculde into Router 'proxies.childes.webshare': Router 'app.bot.modules.proxies.childes.webshare.handlers.webshare']
+[2025-12-12/15/25 22-56-38] - router:32 - [INFO - 
+[Auto] Child router inculded into Router 'proxies': Router 'proxies.childes.webshare']
+[2025-12-12/15/25 22-56-38] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'test']
+[2025-12-12/15/25 22-56-38] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'test': Router 'test.childes.test']
+[2025-12-12/15/25 22-56-39] - main:18 - [INFO - bot запущен]
+[2025-12-12/15/25 22-58-09] - logging:112 - [INFO - Логгер bot создан]
+[2025-12-12/15/25 22-58-09] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'adudio']
+[2025-12-12/15/25 22-58-09] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'adudio': Router 'adudio.childes.data']
+[2025-12-12/15/25 22-58-09] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'example_modul']
+[2025-12-12/15/25 22-58-09] - router:21 - [INFO - 
+[Auto] Root router inculde into dp: Router 'main']
+[2025-12-12/15/25 22-58-09] - router:55 - [INFO - 
+[Auto] Sub router inculde into Router 'proxies': Router 'app.bot.modules.proxies.handlers.proxies']
+[2025-12-12/15/25 22-58-09] - router:21 - [INFO - 
+[Auto] Root router inculde into dp: Router 'proxies']
+[2025-12-12/15/25 22-58-09] - router:55 - [INFO - 
+[Auto] Sub router inculde into Router 'proxies.childes.webshare': Router 'app.bot.modules.proxies.childes.webshare.handlers.webshare']
+[2025-12-12/15/25 22-58-09] - router:32 - [INFO - 
+[Auto] Child router inculded into Router 'proxies': Router 'proxies.childes.webshare']
+[2025-12-12/15/25 22-58-09] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'test']
+[2025-12-12/15/25 22-58-09] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'test': Router 'test.childes.test']
+[2025-12-12/15/25 22-58-09] - main:18 - [INFO - bot запущен]
+[2025-12-12/15/25 23-00-46] - logging:112 - [INFO - Логгер bot создан]
+[2025-12-12/15/25 23-00-46] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'adudio']
+[2025-12-12/15/25 23-00-46] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'adudio': Router 'adudio.childes.data']
+[2025-12-12/15/25 23-00-46] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'example_modul']
+[2025-12-12/15/25 23-00-46] - router:21 - [INFO - 
+[Auto] Root router inculde into dp: Router 'main']
+[2025-12-12/15/25 23-00-46] - router:55 - [INFO - 
+[Auto] Sub router inculde into Router 'proxies': Router 'app.bot.modules.proxies.handlers.proxies']
+[2025-12-12/15/25 23-00-46] - router:21 - [INFO - 
+[Auto] Root router inculde into dp: Router 'proxies']
+[2025-12-12/15/25 23-00-46] - router:55 - [INFO - 
+[Auto] Sub router inculde into Router 'proxies.childes.webshare': Router 'app.bot.modules.proxies.childes.webshare.handlers.webshare']
+[2025-12-12/15/25 23-00-46] - router:32 - [INFO - 
+[Auto] Child router inculded into Router 'proxies': Router 'proxies.childes.webshare']
+[2025-12-12/15/25 23-00-46] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'test']
+[2025-12-12/15/25 23-00-46] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'test': Router 'test.childes.test']
+[2025-12-12/15/25 23-00-49] - main:18 - [INFO - bot запущен]
+[2025-12-12/15/25 23-08-03] - logging:112 - [INFO - Логгер bot создан]
+[2025-12-12/15/25 23-08-03] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'adudio']
+[2025-12-12/15/25 23-08-03] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'adudio': Router 'adudio.childes.data']
+[2025-12-12/15/25 23-08-03] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'example_modul']
+[2025-12-12/15/25 23-08-03] - router:21 - [INFO - 
+[Auto] Root router inculde into dp: Router 'main']
+[2025-12-12/15/25 23-08-03] - router:55 - [INFO - 
+[Auto] Sub router inculde into Router 'proxies': Router 'app.bot.modules.proxies.handlers.proxies']
+[2025-12-12/15/25 23-08-03] - router:21 - [INFO - 
+[Auto] Root router inculde into dp: Router 'proxies']
+[2025-12-12/15/25 23-08-03] - router:55 - [INFO - 
+[Auto] Sub router inculde into Router 'proxies.childes.webshare': Router 'app.bot.modules.proxies.childes.webshare.handlers.webshare']
+[2025-12-12/15/25 23-08-03] - router:32 - [INFO - 
+[Auto] Child router inculded into Router 'proxies': Router 'proxies.childes.webshare']
+[2025-12-12/15/25 23-08-03] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'test']
+[2025-12-12/15/25 23-08-03] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'test': Router 'test.childes.test']
+[2025-12-12/15/25 23-08-04] - main:18 - [INFO - bot запущен]
+[2025-12-12/15/25 23-12-49] - logging:112 - [INFO - Логгер bot создан]
+[2025-12-12/15/25 23-12-49] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'audio']
+[2025-12-12/15/25 23-12-49] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'audio': Router 'audio.childes.create']
+[2025-12-12/15/25 23-12-49] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'create']
+[2025-12-12/15/25 23-12-49] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'create': Router 'create.childes.data']
+[2025-12-12/15/25 23-12-49] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'test']
+[2025-12-12/15/25 23-12-49] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'video']
+[2025-12-12/15/25 23-12-49] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.audio']
+[2025-12-12/15/25 23-12-49] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.create']
+[2025-12-12/15/25 23-12-49] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.create.childes.temp']
+[2025-12-12/15/25 23-13-50] - logging:112 - [INFO - Логгер bot создан]
+[2025-12-12/15/25 23-13-50] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'audio']
+[2025-12-12/15/25 23-13-50] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'audio': Router 'audio.childes.create']
+[2025-12-12/15/25 23-13-50] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'create']
+[2025-12-12/15/25 23-13-50] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'create': Router 'create.childes.data']
+[2025-12-12/15/25 23-13-50] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'test']
+[2025-12-12/15/25 23-13-50] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'video']
+[2025-12-12/15/25 23-13-50] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.audio']
+[2025-12-12/15/25 23-13-50] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.create']
+[2025-12-12/15/25 23-13-50] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.create.childes.temp']
+[2025-12-12/15/25 23-14-06] - logging:112 - [INFO - Логгер bot создан]
+[2025-12-12/15/25 23-14-06] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'audio']
+[2025-12-12/15/25 23-14-06] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'audio': Router 'audio.childes.create']
+[2025-12-12/15/25 23-14-06] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'create']
+[2025-12-12/15/25 23-14-06] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'create': Router 'create.childes.data']
+[2025-12-12/15/25 23-14-06] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'test']
+[2025-12-12/15/25 23-14-07] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'video']
+[2025-12-12/15/25 23-14-07] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.audio']
+[2025-12-12/15/25 23-14-07] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.create']
+[2025-12-12/15/25 23-14-07] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.create.childes.temp']
+[2025-12-12/15/25 23-14-28] - logging:112 - [INFO - Логгер bot создан]
+[2025-12-12/15/25 23-14-28] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'audio']
+[2025-12-12/15/25 23-14-28] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'audio': Router 'audio.childes.create']
+[2025-12-12/15/25 23-14-28] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'create']
+[2025-12-12/15/25 23-14-28] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'create': Router 'create.childes.data']
+[2025-12-12/15/25 23-14-28] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'test']
+[2025-12-12/15/25 23-14-28] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'video']
+[2025-12-12/15/25 23-14-28] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.audio']
+[2025-12-12/15/25 23-14-28] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.create']
+[2025-12-12/15/25 23-14-28] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.create.childes.temp']
+[2025-12-12/16/25 11-52-04] - logging:112 - [INFO - Логгер bot создан]
+[2025-12-12/16/25 11-52-04] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'audio']
+[2025-12-12/16/25 11-52-04] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'audio': Router 'audio.childes.test']
+[2025-12-12/16/25 11-52-04] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'example_modul']
+[2025-12-12/16/25 11-52-04] - router:21 - [INFO - 
+[Auto] Root router inculde into dp: Router 'main']
+[2025-12-12/16/25 11-52-04] - router:55 - [INFO - 
+[Auto] Sub router inculde into Router 'proxies': Router 'app.bot.modules.proxies.handlers.proxies']
+[2025-12-12/16/25 11-52-04] - router:21 - [INFO - 
+[Auto] Root router inculde into dp: Router 'proxies']
+[2025-12-12/16/25 11-52-04] - router:55 - [INFO - 
+[Auto] Sub router inculde into Router 'proxies.childes.webshare': Router 'app.bot.modules.proxies.childes.webshare.handlers.webshare']
+[2025-12-12/16/25 11-52-04] - router:32 - [INFO - 
+[Auto] Child router inculded into Router 'proxies': Router 'proxies.childes.webshare']
+[2025-12-12/16/25 11-52-05] - main:18 - [INFO - bot запущен]
+[2025-12-12/16/25 11-55-03] - logging:112 - [INFO - Логгер bot создан]
+[2025-12-12/16/25 11-55-03] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'audio']
+[2025-12-12/16/25 11-55-03] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'audio': Router 'audio.childes.test']
+[2025-12-12/16/25 11-55-03] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'example_modul']
+[2025-12-12/16/25 11-55-03] - router:21 - [INFO - 
+[Auto] Root router inculde into dp: Router 'main']
+[2025-12-12/16/25 11-55-03] - router:55 - [INFO - 
+[Auto] Sub router inculde into Router 'proxies': Router 'app.bot.modules.proxies.handlers.proxies']
+[2025-12-12/16/25 11-55-03] - router:21 - [INFO - 
+[Auto] Root router inculde into dp: Router 'proxies']
+[2025-12-12/16/25 11-55-03] - router:55 - [INFO - 
+[Auto] Sub router inculde into Router 'proxies.childes.webshare': Router 'app.bot.modules.proxies.childes.webshare.handlers.webshare']
+[2025-12-12/16/25 11-55-03] - router:32 - [INFO - 
+[Auto] Child router inculded into Router 'proxies': Router 'proxies.childes.webshare']
+[2025-12-12/16/25 11-55-04] - main:18 - [INFO - bot запущен]
+[2025-12-12/16/25 11-57-47] - logging:112 - [INFO - Логгер bot создан]
+[2025-12-12/16/25 11-57-47] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'audio']
+[2025-12-12/16/25 11-57-47] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'audio': Router 'audio.childes.create']
+[2025-12-12/16/25 11-57-47] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'create']
+[2025-12-12/16/25 11-57-47] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'create': Router 'create.childes.data']
+[2025-12-12/16/25 11-57-47] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'test']
+[2025-12-12/16/25 11-57-47] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'video']
+[2025-12-12/16/25 11-57-47] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.audio']
+[2025-12-12/16/25 11-57-47] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.create']
+[2025-12-12/16/25 11-57-47] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.create.childes.data']
+[2025-12-12/16/25 11-57-47] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.create.childes.temp']
+[2025-12-12/16/25 11-57-47] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.temp']
+[2025-12-12/16/25 11-58-18] - logging:112 - [INFO - Логгер bot создан]
+[2025-12-12/16/25 11-58-18] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'audio']
+[2025-12-12/16/25 11-58-18] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'audio': Router 'audio.childes.create']
+[2025-12-12/16/25 11-58-18] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'create']
+[2025-12-12/16/25 11-58-18] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'create': Router 'create.childes.data']
+[2025-12-12/16/25 11-58-18] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'test']
+[2025-12-12/16/25 11-58-18] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'video']
+[2025-12-12/16/25 11-58-18] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.audio']
+[2025-12-12/16/25 11-58-18] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.create']
+[2025-12-12/16/25 11-58-18] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.create.childes.data']
+[2025-12-12/16/25 11-58-18] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.create.childes.temp']
+[2025-12-12/16/25 11-58-18] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.temp']
+[2025-12-12/16/25 12-04-49] - logging:112 - [INFO - Логгер bot создан]
+[2025-12-12/16/25 12-04-49] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'audio']
+[2025-12-12/16/25 12-04-49] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'audio': Router 'audio.childes.create']
+[2025-12-12/16/25 12-04-49] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'create']
+[2025-12-12/16/25 12-04-49] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'create': Router 'create.childes.data']
+[2025-12-12/16/25 12-04-49] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'test']
+[2025-12-12/16/25 12-04-49] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'video']
+[2025-12-12/16/25 12-04-49] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.audio']
+[2025-12-12/16/25 12-04-49] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.create']
+[2025-12-12/16/25 12-04-49] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.create.childes.data']
+[2025-12-12/16/25 12-04-49] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.create.childes.temp']
+[2025-12-12/16/25 12-04-49] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.temp']
+[2025-12-12/16/25 12-05-10] - logging:112 - [INFO - Логгер bot создан]
+[2025-12-12/16/25 12-05-10] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'audio']
+[2025-12-12/16/25 12-05-10] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'audio': Router 'audio.childes.create']
+[2025-12-12/16/25 12-05-10] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'create']
+[2025-12-12/16/25 12-05-10] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'create': Router 'create.childes.data']
+[2025-12-12/16/25 12-05-10] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'test']
+[2025-12-12/16/25 12-05-10] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'video']
+[2025-12-12/16/25 12-05-11] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.audio']
+[2025-12-12/16/25 12-05-11] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.create']
+[2025-12-12/16/25 12-05-11] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.create.childes.data']
+[2025-12-12/16/25 12-05-11] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.create.childes.temp']
+[2025-12-12/16/25 12-05-11] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.temp']
+[2025-12-12/16/25 12-07-43] - logging:112 - [INFO - Логгер bot создан]
+[2025-12-12/16/25 12-07-43] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'audio']
+[2025-12-12/16/25 12-07-43] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'audio': Router 'audio.childes.create']
+[2025-12-12/16/25 12-07-43] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'create']
+[2025-12-12/16/25 12-07-43] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'create': Router 'create.childes.data']
+[2025-12-12/16/25 12-07-43] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'test']
+[2025-12-12/16/25 12-07-43] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'video']
+[2025-12-12/16/25 12-07-43] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.audio']
+[2025-12-12/16/25 12-07-43] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.create']
+[2025-12-12/16/25 12-07-43] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.create.childes.data']
+[2025-12-12/16/25 12-07-43] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.create.childes.temp']
+[2025-12-12/16/25 12-07-43] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.temp']
+[2025-12-12/16/25 12-09-14] - logging:112 - [INFO - Логгер bot создан]
+[2025-12-12/16/25 12-09-14] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'audio']
+[2025-12-12/16/25 12-09-14] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'audio': Router 'audio.childes.create']
+[2025-12-12/16/25 12-09-14] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'create']
+[2025-12-12/16/25 12-09-14] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'create': Router 'create.childes.data']
+[2025-12-12/16/25 12-09-14] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'test']
+[2025-12-12/16/25 12-09-14] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'video']
+[2025-12-12/16/25 12-09-15] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.audio']
+[2025-12-12/16/25 12-09-15] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.create']
+[2025-12-12/16/25 12-09-15] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.create.childes.data']
+[2025-12-12/16/25 12-09-15] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.create.childes.temp']
+[2025-12-12/16/25 12-09-15] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.temp']
+[2025-12-12/16/25 12-10-50] - logging:112 - [INFO - Логгер bot создан]
+[2025-12-12/16/25 12-10-50] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'audio']
+[2025-12-12/16/25 12-10-50] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'audio': Router 'audio.childes.create']
+[2025-12-12/16/25 12-10-50] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'create']
+[2025-12-12/16/25 12-10-50] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'create': Router 'create.childes.data']
+[2025-12-12/16/25 12-10-50] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'test']
+[2025-12-12/16/25 12-10-50] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'video']
+[2025-12-12/16/25 12-10-50] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.audio']
+[2025-12-12/16/25 12-10-50] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.create']
+[2025-12-12/16/25 12-10-50] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.create.childes.data']
+[2025-12-12/16/25 12-10-50] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.create.childes.temp']
+[2025-12-12/16/25 12-10-50] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.temp']
+[2025-12-12/16/25 12-13-41] - logging:112 - [INFO - Логгер bot создан]
+[2025-12-12/16/25 12-13-41] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'audio']
+[2025-12-12/16/25 12-13-41] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'audio': Router 'audio.childes.create']
+[2025-12-12/16/25 12-13-41] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'create']
+[2025-12-12/16/25 12-13-41] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'create': Router 'create.childes.data']
+[2025-12-12/16/25 12-13-41] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'test']
+[2025-12-12/16/25 12-13-41] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'video']
+[2025-12-12/16/25 12-13-41] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.audio']
+[2025-12-12/16/25 12-13-41] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.create']
+[2025-12-12/16/25 12-13-41] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.create.childes.data']
+[2025-12-12/16/25 12-13-41] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.create.childes.name']
+[2025-12-12/16/25 12-13-41] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.create.childes.name.childes.test']
+[2025-12-12/16/25 12-13-41] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.create.childes.temp']
+[2025-12-12/16/25 12-13-41] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.temp']
+[2025-12-12/16/25 12-15-10] - logging:112 - [INFO - Логгер bot создан]
+[2025-12-12/16/25 12-15-10] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'audio']
+[2025-12-12/16/25 12-15-10] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'audio': Router 'audio.childes.create']
+[2025-12-12/16/25 12-15-10] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'create']
+[2025-12-12/16/25 12-15-11] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'create': Router 'create.childes.data']
+[2025-12-12/16/25 12-15-11] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'test']
+[2025-12-12/16/25 12-15-11] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'video']
+[2025-12-12/16/25 12-15-11] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.audio']
+[2025-12-12/16/25 12-15-11] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.create']
+[2025-12-12/16/25 12-15-11] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.create.childes.data']
+[2025-12-12/16/25 12-15-11] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.create.childes.name']
+[2025-12-12/16/25 12-15-11] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.create.childes.name.childes.test']
+[2025-12-12/16/25 12-15-11] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.create.childes.temp']
+[2025-12-12/16/25 12-15-11] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.temp']
+[2025-12-12/16/25 12-15-47] - logging:112 - [INFO - Логгер bot создан]
+[2025-12-12/16/25 12-15-47] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'audio']
+[2025-12-12/16/25 12-15-47] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'audio': Router 'audio.childes.create']
+[2025-12-12/16/25 12-15-47] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'create']
+[2025-12-12/16/25 12-15-48] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'create': Router 'create.childes.data']
+[2025-12-12/16/25 12-15-48] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'test']
+[2025-12-12/16/25 12-15-48] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'video']
+[2025-12-12/16/25 12-15-48] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.audio']
+[2025-12-12/16/25 12-15-48] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.create']
+[2025-12-12/16/25 12-15-48] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.create.childes.data']
+[2025-12-12/16/25 12-15-48] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.create.childes.name']
+[2025-12-12/16/25 12-15-48] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.create.childes.name.childes.test']
+[2025-12-12/16/25 12-15-48] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.create.childes.temp']
+[2025-12-12/16/25 12-15-48] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.data']
+[2025-12-12/16/25 12-15-48] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.temp']
+[2025-12-12/16/25 12-17-28] - logging:112 - [INFO - Логгер bot создан]
+[2025-12-12/16/25 12-17-28] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'audio']
+[2025-12-12/16/25 12-17-28] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'audio': Router 'audio.childes.create']
+[2025-12-12/16/25 12-17-28] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'create']
+[2025-12-12/16/25 12-17-28] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'create': Router 'create.childes.data']
+[2025-12-12/16/25 12-17-28] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'test']
+[2025-12-12/16/25 12-17-28] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'video']
+[2025-12-12/16/25 12-17-28] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.audio']
+[2025-12-12/16/25 12-17-28] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.create']
+[2025-12-12/16/25 12-17-28] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.create.childes.data']
+[2025-12-12/16/25 12-17-28] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.create.childes.name']
+[2025-12-12/16/25 12-17-28] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.create.childes.name.childes.test']
+[2025-12-12/16/25 12-17-28] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.create.childes.temp']
+[2025-12-12/16/25 12-17-28] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.data']
+[2025-12-12/16/25 12-17-28] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.temp']
+[2025-12-12/16/25 12-18-45] - logging:112 - [INFO - Логгер bot создан]
+[2025-12-12/16/25 12-18-45] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'audio']
+[2025-12-12/16/25 12-18-45] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'audio': Router 'audio.childes.create']
+[2025-12-12/16/25 12-18-45] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'create']
+[2025-12-12/16/25 12-18-45] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'create': Router 'create.childes.data']
+[2025-12-12/16/25 12-18-45] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'test']
+[2025-12-12/16/25 12-18-45] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'video']
+[2025-12-12/16/25 12-18-45] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.audio']
+[2025-12-12/16/25 12-18-45] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.create']
+[2025-12-12/16/25 12-18-45] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.create.childes.data']
+[2025-12-12/16/25 12-18-45] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.create.childes.name']
+[2025-12-12/16/25 12-18-45] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.create.childes.name.childes.test']
+[2025-12-12/16/25 12-18-45] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.create.childes.temp']
+[2025-12-12/16/25 12-18-45] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.data']
+[2025-12-12/16/25 12-18-45] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.temp']
+[2025-12-12/16/25 12-19-52] - logging:112 - [INFO - Логгер bot создан]
+[2025-12-12/16/25 12-19-52] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'audio']
+[2025-12-12/16/25 12-19-52] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'audio': Router 'audio.childes.create']
+[2025-12-12/16/25 12-19-52] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'create']
+[2025-12-12/16/25 12-19-52] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'create': Router 'create.childes.data']
+[2025-12-12/16/25 12-19-52] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'test']
+[2025-12-12/16/25 12-19-52] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'video']
+[2025-12-12/16/25 12-19-52] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.audio']
+[2025-12-12/16/25 12-19-52] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.create']
+[2025-12-12/16/25 12-19-52] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.create.childes.data']
+[2025-12-12/16/25 12-19-52] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.create.childes.name']
+[2025-12-12/16/25 12-19-52] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.create.childes.name.childes.test']
+[2025-12-12/16/25 12-19-52] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.create.childes.temp']
+[2025-12-12/16/25 12-19-52] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.data']
+[2025-12-12/16/25 12-19-52] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.temp']
+[2025-12-12/16/25 12-20-34] - logging:112 - [INFO - Логгер bot создан]
+[2025-12-12/16/25 12-20-34] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'audio']
+[2025-12-12/16/25 12-20-34] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'audio': Router 'audio.childes.create']
+[2025-12-12/16/25 12-20-34] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'create']
+[2025-12-12/16/25 12-20-34] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'create': Router 'create.childes.data']
+[2025-12-12/16/25 12-20-34] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'test']
+[2025-12-12/16/25 12-20-34] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'video']
+[2025-12-12/16/25 12-20-34] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.audio']
+[2025-12-12/16/25 12-20-34] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.create']
+[2025-12-12/16/25 12-20-34] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.create.childes.data']
+[2025-12-12/16/25 12-20-34] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.create.childes.name']
+[2025-12-12/16/25 12-20-34] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.create.childes.name.childes.test']
+[2025-12-12/16/25 12-20-34] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.create.childes.temp']
+[2025-12-12/16/25 12-20-34] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.data']
+[2025-12-12/16/25 12-20-34] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.temp']
+[2025-12-12/16/25 12-23-07] - logging:112 - [INFO - Логгер bot создан]
+[2025-12-12/16/25 12-23-07] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'audio']
+[2025-12-12/16/25 12-23-07] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'audio': Router 'audio.childes.create']
+[2025-12-12/16/25 12-23-07] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'create']
+[2025-12-12/16/25 12-23-07] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'create': Router 'create.childes.data']
+[2025-12-12/16/25 12-23-07] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'test']
+[2025-12-12/16/25 12-23-07] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'video']
+[2025-12-12/16/25 12-23-07] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.audio']
+[2025-12-12/16/25 12-23-07] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.create']
+[2025-12-12/16/25 12-23-07] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.create.childes.data']
+[2025-12-12/16/25 12-23-07] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.create.childes.name']
+[2025-12-12/16/25 12-23-07] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.create.childes.name.childes.test']
+[2025-12-12/16/25 12-23-07] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.create.childes.temp']
+[2025-12-12/16/25 12-23-07] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.data']
+[2025-12-12/16/25 12-23-07] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.temp']
+[2025-12-12/16/25 12-27-15] - logging:112 - [INFO - Логгер bot создан]
+[2025-12-12/16/25 12-27-15] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'audio']
+[2025-12-12/16/25 12-27-15] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'audio': Router 'audio.childes.create']
+[2025-12-12/16/25 12-27-15] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'create']
+[2025-12-12/16/25 12-27-15] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'create': Router 'create.childes.data']
+[2025-12-12/16/25 12-27-15] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'test']
+[2025-12-12/16/25 12-27-15] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'video']
+[2025-12-12/16/25 12-27-15] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.audio']
+[2025-12-12/16/25 12-27-15] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.create']
+[2025-12-12/16/25 12-27-15] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.create.childes.data']
+[2025-12-12/16/25 12-27-15] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.create.childes.name']
+[2025-12-12/16/25 12-27-15] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.create.childes.name.childes.test']
+[2025-12-12/16/25 12-27-15] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.create.childes.temp']
+[2025-12-12/16/25 12-27-15] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.data']
+[2025-12-12/16/25 12-27-15] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.temp']
+[2025-12-12/16/25 12-27-31] - logging:112 - [INFO - Логгер bot создан]
+[2025-12-12/16/25 12-27-31] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'audio']
+[2025-12-12/16/25 12-27-31] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'audio': Router 'audio.childes.create']
+[2025-12-12/16/25 12-27-31] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'create']
+[2025-12-12/16/25 12-27-31] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'create': Router 'create.childes.data']
+[2025-12-12/16/25 12-27-31] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'test']
+[2025-12-12/16/25 12-27-31] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'video']
+[2025-12-12/16/25 12-27-31] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.audio']
+[2025-12-12/16/25 12-27-31] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.create']
+[2025-12-12/16/25 12-27-31] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.create.childes.data']
+[2025-12-12/16/25 12-27-31] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.create.childes.name']
+[2025-12-12/16/25 12-27-31] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.create.childes.name.childes.test']
+[2025-12-12/16/25 12-27-31] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.create.childes.temp']
+[2025-12-12/16/25 12-27-31] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.data']
+[2025-12-12/16/25 12-27-31] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.temp']
+[2025-12-12/16/25 12-35-20] - logging:112 - [INFO - Логгер bot создан]
+[2025-12-12/16/25 12-35-20] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'audio']
+[2025-12-12/16/25 12-35-20] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'audio': Router 'audio.childes.create']
+[2025-12-12/16/25 12-35-20] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'create']
+[2025-12-12/16/25 12-35-20] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'create': Router 'create.childes.data']
+[2025-12-12/16/25 12-35-20] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'test']
+[2025-12-12/16/25 12-35-20] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'video']
+[2025-12-12/16/25 12-35-20] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.audio']
+[2025-12-12/16/25 12-35-20] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.create']
+[2025-12-12/16/25 12-35-20] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.create.childes.data']
+[2025-12-12/16/25 12-35-20] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.create.childes.name']
+[2025-12-12/16/25 12-35-20] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.create.childes.name.childes.test']
+[2025-12-12/16/25 12-35-20] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.create.childes.temp']
+[2025-12-12/16/25 12-35-20] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.data']
+[2025-12-12/16/25 12-35-20] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.temp']
+[2025-12-12/16/25 13-15-29] - logging:112 - [INFO - Логгер bot создан]
+[2025-12-12/16/25 13-15-29] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'audio']
+[2025-12-12/16/25 13-15-29] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'audio': Router 'audio.childes.create']
+[2025-12-12/16/25 13-15-29] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'create']
+[2025-12-12/16/25 13-15-29] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'create': Router 'create.childes.data']
+[2025-12-12/16/25 13-15-29] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'test']
+[2025-12-12/16/25 13-15-29] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'video']
+[2025-12-12/16/25 13-15-29] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.audio']
+[2025-12-12/16/25 13-15-29] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.create']
+[2025-12-12/16/25 13-15-29] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.create.childes.data']
+[2025-12-12/16/25 13-15-30] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.create.childes.name']
+[2025-12-12/16/25 13-15-30] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.create.childes.name.childes.test']
+[2025-12-12/16/25 13-15-30] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.create.childes.temp']
+[2025-12-12/16/25 13-15-30] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.data']
+[2025-12-12/16/25 13-15-30] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.temp']
+[2025-12-12/16/25 13-16-36] - logging:112 - [INFO - Логгер bot создан]
+[2025-12-12/16/25 13-16-36] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'audio']
+[2025-12-12/16/25 13-16-36] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'audio': Router 'audio.childes.create']
+[2025-12-12/16/25 13-16-36] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'create']
+[2025-12-12/16/25 13-16-36] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'create': Router 'create.childes.data']
+[2025-12-12/16/25 13-16-36] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'test']
+[2025-12-12/16/25 13-16-36] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'video']
+[2025-12-12/16/25 13-16-36] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.audio']
+[2025-12-12/16/25 13-16-36] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.create']
+[2025-12-12/16/25 13-16-36] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.create.childes.data']
+[2025-12-12/16/25 13-16-36] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.create.childes.name']
+[2025-12-12/16/25 13-16-36] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.create.childes.name.childes.test']
+[2025-12-12/16/25 13-16-36] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.create.childes.temp']
+[2025-12-12/16/25 13-16-36] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.data']
+[2025-12-12/16/25 13-16-36] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.temp']
+[2025-12-12/16/25 13-17-39] - logging:112 - [INFO - Логгер bot создан]
+[2025-12-12/16/25 13-17-39] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'audio']
+[2025-12-12/16/25 13-17-39] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'audio': Router 'audio.childes.create']
+[2025-12-12/16/25 13-17-39] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'create']
+[2025-12-12/16/25 13-17-39] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'create': Router 'create.childes.data']
+[2025-12-12/16/25 13-17-39] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'test']
+[2025-12-12/16/25 13-17-39] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'video']
+[2025-12-12/16/25 13-17-39] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.audio']
+[2025-12-12/16/25 13-17-39] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.create']
+[2025-12-12/16/25 13-17-39] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.create.childes.data']
+[2025-12-12/16/25 13-17-39] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.create.childes.name']
+[2025-12-12/16/25 13-17-39] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.create.childes.name.childes.test']
+[2025-12-12/16/25 13-17-39] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.create.childes.temp']
+[2025-12-12/16/25 13-17-39] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.data']
+[2025-12-12/16/25 13-17-39] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.temp']
+[2025-12-12/16/25 13-26-01] - logging:112 - [INFO - Логгер bot создан]
+[2025-12-12/16/25 13-26-01] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'audio']
+[2025-12-12/16/25 13-26-01] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'audio': Router 'audio.childes.create']
+[2025-12-12/16/25 13-26-01] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'create']
+[2025-12-12/16/25 13-26-01] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'create': Router 'create.childes.data']
+[2025-12-12/16/25 13-26-01] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'test']
+[2025-12-12/16/25 13-26-01] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'video']
+[2025-12-12/16/25 13-26-01] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.audio']
+[2025-12-12/16/25 13-26-01] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.create']
+[2025-12-12/16/25 13-26-01] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.create.childes.data']
+[2025-12-12/16/25 13-26-02] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.create.childes.name']
+[2025-12-12/16/25 13-26-02] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.create.childes.name.childes.test']
+[2025-12-12/16/25 13-26-02] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.create.childes.temp']
+[2025-12-12/16/25 13-26-02] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.data']
+[2025-12-12/16/25 13-26-02] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.temp']
+[2025-12-12/16/25 13-39-23] - logging:112 - [INFO - Логгер bot создан]
+[2025-12-12/16/25 13-39-23] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'audio']
+[2025-12-12/16/25 13-39-23] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'audio': Router 'audio.childes.create']
+[2025-12-12/16/25 13-39-23] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'create']
+[2025-12-12/16/25 13-39-23] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'create': Router 'create.childes.data']
+[2025-12-12/16/25 13-39-23] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'test']
+[2025-12-12/16/25 13-39-23] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'video']
+[2025-12-12/16/25 13-39-23] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.audio']
+[2025-12-12/16/25 13-39-23] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.create']
+[2025-12-12/16/25 13-39-23] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.create.childes.data']
+[2025-12-12/16/25 13-39-23] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.create.childes.name']
+[2025-12-12/16/25 13-39-23] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.create.childes.name.childes.test']
+[2025-12-12/16/25 13-39-23] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.create.childes.temp']
+[2025-12-12/16/25 13-39-23] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.data']
+[2025-12-12/16/25 13-39-23] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'video': Router 'video.childes.temp']
+[2025-12-12/16/25 13-41-40] - logging:112 - [INFO - Логгер bot создан]
+[2025-12-12/16/25 13-41-41] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'audio']
+[2025-12-12/16/25 13-41-41] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'audio': Router 'audio.childes.test']
+[2025-12-12/16/25 13-41-41] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'data']
+[2025-12-12/16/25 13-41-41] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'example_modul']
+[2025-12-12/16/25 13-41-41] - router:21 - [INFO - 
+[Auto] Root router inculde into dp: Router 'main']
+[2025-12-12/16/25 13-41-42] - router:55 - [INFO - 
+[Auto] Sub router inculde into Router 'proxies': Router 'app.bot.modules.proxies.handlers.proxies']
+[2025-12-12/16/25 13-41-42] - router:21 - [INFO - 
+[Auto] Root router inculde into dp: Router 'proxies']
+[2025-12-12/16/25 13-41-42] - router:55 - [INFO - 
+[Auto] Sub router inculde into Router 'proxies.childes.webshare': Router 'app.bot.modules.proxies.childes.webshare.handlers.webshare']
+[2025-12-12/16/25 13-41-42] - router:32 - [INFO - 
+[Auto] Child router inculded into Router 'proxies': Router 'proxies.childes.webshare']
+[2025-12-12/16/25 13-41-42] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'video']
+[2025-12-12/16/25 13-41-43] - main:18 - [INFO - bot запущен]
+[2025-12-12/16/25 13-44-48] - logging:112 - [INFO - Логгер bot создан]
+[2025-12-12/16/25 13-44-48] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'audio']
+[2025-12-12/16/25 13-44-48] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'audio': Router 'audio.childes.test']
+[2025-12-12/16/25 13-44-48] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'data']
+[2025-12-12/16/25 13-44-48] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'example_modul']
+[2025-12-12/16/25 13-44-48] - router:21 - [INFO - 
+[Auto] Root router inculde into dp: Router 'main']
+[2025-12-12/16/25 13-44-48] - router:55 - [INFO - 
+[Auto] Sub router inculde into Router 'proxies': Router 'app.bot.modules.proxies.handlers.proxies']
+[2025-12-12/16/25 13-44-48] - router:21 - [INFO - 
+[Auto] Root router inculde into dp: Router 'proxies']
+[2025-12-12/16/25 13-44-48] - router:55 - [INFO - 
+[Auto] Sub router inculde into Router 'proxies.childes.webshare': Router 'app.bot.modules.proxies.childes.webshare.handlers.webshare']
+[2025-12-12/16/25 13-44-48] - router:32 - [INFO - 
+[Auto] Child router inculded into Router 'proxies': Router 'proxies.childes.webshare']
+[2025-12-12/16/25 13-44-48] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'video']
+[2025-12-12/16/25 13-44-49] - main:18 - [INFO - bot запущен]
+[2025-12-12/16/25 13-54-44] - logging:112 - [INFO - Логгер bot создан]
+[2025-12-12/16/25 13-54-44] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'audio']
+[2025-12-12/16/25 13-54-44] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'audio': Router 'audio.childes.test']
+[2025-12-12/16/25 13-54-44] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'data']
+[2025-12-12/16/25 13-54-44] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'example_modul']
+[2025-12-12/16/25 13-54-45] - router:21 - [INFO - 
+[Auto] Root router inculde into dp: Router 'main']
+[2025-12-12/16/25 13-54-45] - router:55 - [INFO - 
+[Auto] Sub router inculde into Router 'proxies': Router 'app.bot.modules.proxies.handlers.proxies']
+[2025-12-12/16/25 13-54-45] - router:21 - [INFO - 
+[Auto] Root router inculde into dp: Router 'proxies']
+[2025-12-12/16/25 13-54-45] - router:55 - [INFO - 
+[Auto] Sub router inculde into Router 'proxies.childes.webshare': Router 'app.bot.modules.proxies.childes.webshare.handlers.webshare']
+[2025-12-12/16/25 13-54-45] - router:32 - [INFO - 
+[Auto] Child router inculded into Router 'proxies': Router 'proxies.childes.webshare']
+[2025-12-12/16/25 13-54-45] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'video']
+[2025-12-12/16/25 13-54-45] - main:18 - [INFO - bot запущен]
+[2025-12-12/16/25 14-03-06] - logging:112 - [INFO - Логгер bot создан]
+[2025-12-12/16/25 14-03-06] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'example_modul']
+[2025-12-12/16/25 14-03-06] - router:21 - [INFO - 
+[Auto] Root router inculde into dp: Router 'main']
+[2025-12-12/16/25 14-03-06] - main:18 - [INFO - bot запущен]
+[2025-12-12/16/25 14-05-55] - logging:112 - [INFO - Логгер bot создан]
+[2025-12-12/16/25 14-05-55] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'example_modul']
+[2025-12-12/16/25 14-05-55] - router:21 - [INFO - 
+[Auto] Root router inculde into dp: Router 'main']
+[2025-12-12/16/25 14-05-55] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'proxeis']
+[2025-12-12/16/25 14-05-55] - router:33 - [INFO - 
+[Auto] Child router inculded into Router 'proxeis': Router 'proxeis.childes.webshare']
+[2025-12-12/16/25 14-05-55] - main:18 - [INFO - bot запущен]
+[2025-12-12/16/25 14-58-48] - logging:112 - [INFO - Логгер bot создан]
+[2025-12-12/16/25 15-01-11] - logging:112 - [INFO - Логгер bot создан]
+[2025-12-12/16/25 15-01-11] - router:22 - [INFO - 
+[Auto] Root router inculde into dp: Router 'example_modul']
+[2025-12-12/16/25 15-01-11] - router:21 - [INFO - 
+[Auto] Root router inculde into dp: Router 'main']
+[2025-12-12/16/25 15-01-11] - main:18 - [INFO - bot запущен]

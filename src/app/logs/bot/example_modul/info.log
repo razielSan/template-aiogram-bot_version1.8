@@ -1,0 +1,4 @@
+[2025-12-12/16/25 14-05-55] - logging:112 - [INFO - Логгер example_modul создан]
+[2025-12-12/16/25 14-05-55] - startup:103 - [INFO - Middleware для example_modul подключен]
+[2025-12-12/16/25 15-01-11] - logging:112 - [INFO - Логгер example_modul создан]
+[2025-12-12/16/25 15-01-11] - startup:103 - [INFO - Middleware для example_modul подключен]
