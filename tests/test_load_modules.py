@@ -113,6 +113,3 @@ def test_load_modules_integration(tmp_path: Path):
 
     finally:
         sys.path.remove(str(tmp_path))
-
-
-# pytest tests/test_load_modules.py

@@ -29,7 +29,11 @@ def main() -> None:
     command: str = list_sys_argv[1]
     if command == "add-module":
         if len(list_sys_argv) < 3:
-            print("Укажите имя модуля\npython manage.py add-module <путь>")
+            print(
+                "Укажите путь до модуля.Дочерний модуль должен быть "
+                "разделен 'childes'\ncli add-module <путь>"
+                "\ncli add-module test/childes/data"
+            )
             exit()
         else:
             print("Идет создание модулей...")
@@ -40,11 +44,15 @@ def main() -> None:
             )
     elif command == "remove-module":
         if len(list_sys_argv) < 3:
-            print("Укажите имя модуля\npython manage.py remove-module <путь>")
+            print(
+                "Укажите путь до модуля.Дочерний модуль должен быть "
+                "разделен 'childes'\ncli add-module <путь>"
+                "\ncli add-module test/childes/data"
+            )
             exit()
         elif len(list_sys_argv) >= 4:
             print(
-                "За раз можно удалить только один модуль\npython manage.py remove-module <путь>"
+                "За раз можно удалить только один модуль\ncli remove-module <путь>"
             )
             exit()
         else:
@@ -52,7 +60,7 @@ def main() -> None:
             TEMP_PATH: Path = APP_DIR / "bot" / "temp"
             MODULES_PATH: Path = MODULES_ROOT
             remove_module(
-                name=list_sys_argv[2],
+                path_name=list_sys_argv[2],
                 log_path=LOG_PATH,
                 temp_path=TEMP_PATH,
                 modules_path=MODULES_PATH,

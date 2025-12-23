@@ -1,0 +1,17 @@
+[2025-12-12/16/25 15-34-15] - errors:35 - [ERROR - 🚨 Ошибка в Router: main_error
+Тип события: Message
+Пользователь: razielasus (id=1383179677)
+Текст: /start
+Ошибка: 
+Трассировка:
+Traceback (most recent call last):
+  File "D:\ProgrammingProjects\Python\Bot\Project\BOT_PROJECT\func_store_botV1.4\src\app\bot\core\middleware\errors.py", line 20, in __call__
+    return await handler(event, data)
+  File "d:\programmingprojects\python\bot\project\bot_project\func_store_botv1.4\venv\lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+  File "D:\ProgrammingProjects\Python\Bot\Project\BOT_PROJECT\func_store_botV1.4\src\app\bot\modules\main\router.py", line 50, in main
+    raise NotImplementedError
+NotImplementedError
+
+--------------------------------------------------------------------------------
+]

@@ -1,14 +1,10 @@
 from pathlib import Path
-import sys
-
 
 import pytest
-from aiogram import Dispatcher
 
 from app.app_utils.module_creator.creator import create_module
-from app.app_utils.module_loader.loader import load_modules
+from app.app_utils.module_remover.remover import remove_module
 from app.core.response import ResponseData
-from app.settings.init_logging import root_error_logger
 
 
 @pytest.mark.parametrize(
@@ -30,7 +26,7 @@ from app.settings.init_logging import root_error_logger
 def test_create_module(tmp_path: Path, modules):
     # tmp_path - временный путь для теста
     modules_root: Path = tmp_path / "test_app" / "bot" / "modules"
-    modules_root.mkdir(parents=True)
+    modules_root.mkdir(parents=True, exist_ok=True)
 
     resul: ResponseData = create_module(
         list_path_modules=modules,
@@ -74,7 +70,7 @@ def test_create_module(tmp_path: Path, modules):
 @pytest.mark.parametrize(
     "modules",
     [
-        ["video/childes"],
+        ["video/childes", "video"],
         ["video/wrong/childes"],
         ["video/./data"],
         ["video//data"],
